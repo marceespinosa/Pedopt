@@ -1,0 +1,132 @@
+
+.carimg{
+    max-width: 1000px;
+    max-height: 800px;
+
+}
+.pics{
+    max-width:  350px;
+    max-height: 350px;
+    
+}
+.footer{
+   position:sticky;
+   left: 0;
+   bottom:0;
+   width:100%;
+   color:white;
+   text-align: center;
+
+}
+
+.carousel-item{
+    display :block;
+    margin-right: 0;
+    flex: 0 0 calc(56%/3);
+}
+.carousel-group{
+    align-items: center;
+    max-width: 150px;
+    max-height: 150px;
+}
+.card{
+    max-width: 150%;
+    max-height: 150%;
+}
+
+.Home{
+    background-image: url("../public/HEADER.JPG");
+    padding: 8rem;
+    margin-top: auto;
+
+}
+.card-quotes{
+    background-image: url("../public/quotes.jpg");
+    font-family: 'Shadows Into Light', cursive;
+    max-width: 150%;
+    max-height: 150%;
+   
+}
+
+.carousel{
+    background-color: #e8e8fd;
+    background-image: radial-gradient(#5287d6 0.8px, #e8e8fd 0.8px);
+    background-size: 16px 16px;
+
+}
+.card-carousel
+{
+    width: 75%;
+    height: 75%;
+    align-content: center;
+    margin-left: 12%;
+}
+.dogs{
+    width: 75%;
+    height: 75%;
+    padding-left: 0%;
+    margin-left: 10%;
+    background-color: #c0a68e;
+    background: radial-gradient(circle, transparent 20%, #c0a68e 20%, #c0a68e 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #c0a68e 20%, #c0a68e 80%, transparent 80%, transparent) 10px 10px, linear-gradient(#350000 0.8px, transparent 0.8px) 0 -0.4px, linear-gradient(90deg, #350000 0.8px, #c0a68e 0.8px) -0.4px 0;
+    background-size: 20px 20px, 20px 20px, 10px 10px, 10px 10px;
+
+
+}
+.title{
+    color:white;
+    font-family: 'Shadows Into Light', cursive;
+}
+.login{
+    margin-left:  22%;
+    background-image: url("../public/quotes.jpg");
+    font-family: 'Shadows Into Light', cursive;
+}
+.aboutus{
+    max-width: 400px;
+    max-height: 400px;
+    font-family: 'Shadows Into Light', cursive;
+
+}
+.aboutusimg{
+    max-width: 700%;
+    max-height: 700%;
+    font-family: 'Shadows Into Light', cursive;
+}
+.background2{
+    background-color: #e8e8fd;
+
+    background-image: radial-gradient(#5287d6 0.8px, #e8e8fd 0.8px);
+    background-size: 16px 16px;
+}
+.Home2{
+    background-color: #e8e8fd;
+
+    background-image: radial-gradient(#5287d6 0.8px, #e8e8fd 0.8px);
+    background-size: 16px 16px;
+
+}
+.google{
+   align-items: center;
+}
+
+.myaccount{
+    max-width: 250px;
+    max-height: 194px;
+    margin-left: 40%;
+    font-family: 'Shadows Into Light', cursive;
+  
+}
+.addimage{
+    max-width: 1000;
+    max-height: 800px;
+}
+.addcard{
+    width: 75%;
+    height: 75%;
+    padding-left: 0%;
+    margin-left: 10%;
+    background-color: #c0a68e;
+    background: radial-gradient(circle, transparent 20%, #c0a68e 20%, #c0a68e 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #c0a68e 20%, #c0a68e 80%, transparent 80%, transparent) 10px 10px, linear-gradient(#350000 0.8px, transparent 0.8px) 0 -0.4px, linear-gradient(90deg, #350000 0.8px, #c0a68e 0.8px) -0.4px 0;
+    background-size: 20px 20px, 20px 20px, 10px 10px, 10px 10px;
+
+}
